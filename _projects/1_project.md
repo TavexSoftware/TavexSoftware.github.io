@@ -1,6 +1,6 @@
 ---
 layout: page
-title: HelpfulGui
+title: Helpful Gui
 description: A spigot Gui plugin with many features
 img: assets/img/12.jpg
 importance: 1
