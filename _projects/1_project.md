@@ -4,7 +4,7 @@ title: HelpfulGui
 description: A spigot Gui plugin with many features
 img: assets/img/12.jpg
 importance: 1
-category: spigot
+category: work
 ---
 
 > Helpful Gui is still currently in development so some things on this page may be inaccurate.
