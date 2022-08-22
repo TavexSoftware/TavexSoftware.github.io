@@ -16,7 +16,7 @@ category: work
 ### Features
 This plugin will provide:
 - Kill gui for players (If wanted)
-- A GUI for admins to ban and kick players will ease of acesss
+- A GUI for admins to ban and kick players will ease of access
 - Many more features coming in the future
 
 ### Project downloads
