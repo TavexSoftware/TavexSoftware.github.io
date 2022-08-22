@@ -17,3 +17,4 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 We at Tavex believe in better software for all. Thats why we exist. Check out our projects page for our work.
+<br> Our Latest Project is [HelpfulGui](http://tavex.studio/projects/1_project/)

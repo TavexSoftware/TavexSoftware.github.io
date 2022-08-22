@@ -20,6 +20,7 @@ This plugin will provide:
 - Many more features coming in the future
 
 ### Project downloads
+[Spigot](https://www.spigotmc.org/resources/helpfulgui.104737/)
 [Github](https://github.com/tavexsoftware/helpfulgui)
 
 ### Project Credits
