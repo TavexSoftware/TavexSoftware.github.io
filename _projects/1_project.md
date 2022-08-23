@@ -28,4 +28,4 @@ Developed By Max
 <br>Project Design by Max
 <br>Built on Spigot Version 1.19.2 using [IntellJ Idea](https://www.jetbrains.com/idea/)
 
-## [Join Tavex on discord](https://discord.io/tavexbots)
+## [Join Tavex on discord](https://discord.tavex.studio)
