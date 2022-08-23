@@ -7,4 +7,4 @@ nav: true
 nav_order: 5
 ---
 
-We curently do not teach others
+We currently do not teach others
