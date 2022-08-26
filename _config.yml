@@ -213,7 +213,7 @@ jekyll-archives:
     tag: '/blog/tag/:name/'
     category: '/blog/category/:name/'
 
-display_tags: ['spigot', 'bots', 'software', 'gamedev', 'random'] # this tags will be dispalyed on the front page of your blog
+display_tags: ['spigot', 'bots', 'software', 'gamedev', 'updates', 'random'] # this tags will be dispalyed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
