@@ -18,3 +18,4 @@ social: true  # includes social icons at the bottom of the page
 
 We at Tavex believe in better software for all. Thats why we exist. Check out our projects page for our work.
 <br> Our Latest Project is [HelpfulGui](https://tavex.studio/projects/1_project/)
+<br>Our next project is a unity game (no title yet) and [Project Drowned](https://tavex.studio/projects/BetterAquatic/)
