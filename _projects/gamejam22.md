@@ -9,4 +9,5 @@ category: events
 
 ## Tavex Game Jam 2022
 This is the page for this year's game jam.
-<br> We will update this very soon
+<br> 
+# [Join Now!](https://itch.io/jam/tavex22)
