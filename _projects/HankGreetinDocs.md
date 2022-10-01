@@ -4,7 +4,7 @@ title: Hank Greetin Docs
 description: Handy Documentation for Hank's Hats
 img: assets/img/hanks-hats.jpg
 importance: 1
-category: fun
+category: archive
 ---
 
 ## A Handy Guide To Hank Green's Hat Wearing
