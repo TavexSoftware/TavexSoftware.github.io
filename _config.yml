@@ -6,9 +6,9 @@ title: TavexSoftware # the website title (if blank, full name will be used inste
 first_name: Tavex
 middle_name: Software
 last_name: By Max & Tavish
-email: you@example.com
+email: contact@tavex.studio
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Tavex is the creator of Discord bots such as Bob bot and Cow Bot. We have also created the helpful gui spigot plugin
+  Tavex Studio. We made Speed among other things.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a>.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
