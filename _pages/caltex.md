@@ -1,7 +1,7 @@
 ---
 layout: about
 title: about
-permalink: /caltex/
+permalink: /caltex
 subtitle: We Make Games
 
 profile:
