@@ -1,6 +1,6 @@
 ---
 layout: about
-title: caltex
+title: about
 permalink: /caltex/
 subtitle: We Make Games
 
